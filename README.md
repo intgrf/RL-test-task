@@ -2,4 +2,8 @@
 
 1. MountainCar-v0
 
-  Solving the task using a `pytorch` implementation of DQN algorithm
+   Discret version of the problem is solved using the DQN-algorithm
+
+2. MountainCarContinous-v0
+
+   Continuous MountainCar problem is solved using the DDPG-algorithm
